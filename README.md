@@ -6,42 +6,30 @@
 
 # React Landing Page
 
-A FrontEnd Landing Page for corporations
+A FrontEnd Landing Page for corporations and Small businesses Alike.
 
 ## OverView
 
-An Application implementing React, Node.js, Express & MongoDB Allowing users to post cards to the website representing meaningful moments to them.
+An Application implementing React, JSX, Allowing for a Landing page to be connected to a Signup, Login and contacts us form.
 
 ## Demo
 
-Live demo is available here: **[Demo](https://jolly-montalcini-ba5221.netlify.app/)**
+Live demo is available here: **[Demo](https://react-landing1.herokuapp.com/)**
 
 Setup:
 
-- run `npm install && npm start` for both client and server side to start the app
+- run `npm install && npm start`
 
 ## Features
 
 - Client
 
-  - React client with functional components
-  - Redux state management with Thunk for async actions
+  - Nav Bar and anchor Navigation in page
+  - JSX Formating with react js .
   - CSS agnostic, so you don't waste your time replacing my CSS framework with yours
-  - Home, Menu, , Login, Register and contact pages
-  - Protected routes with Higher order components
-  - MaterialUI components used with correspondive styling
-  - Axos Fetch Operations Recieved by Bakcend.
-
-- Server
-
-  - CRUD operations implemented with Express
-  - Add , create , delete and like Posts.
-  - Submit pictures with posts.
-  - MongoDB Model and schema.
+  - Features, About, services, gallery, testimonials, team and contact pages
 
 ## How to Run
 
-- Change the Fetch API in client/src/api/index.js
-- Change the CONNECTION_URL for MongoDB link in server/index.js
-- cd client && npm start
-- cd server && npm start
+- Change the Css to your liking
+- cd Project-Folder && npm start
