@@ -1,0 +1,137 @@
+{
+  "Header": {
+    "title": "We are a Top saas",
+    "paragraph": "Have you tried Wheaties? They're whole wheat with all of the bran. Won't you try Wheaties? For wheat is the best food of man."
+  },
+  "About": {
+    "paragraph": "The world looks mighty good to me, cause Tootsie Rolls are all I see. Whatever it is I think I see, becomes a Tootsie Roll to me! Tootsie Roll how I love your chocolatey chew, Tootsie Roll I think I'm in love with you. Whatever it is I think I see, becomes a Tootsie Roll to me!",
+    "Why": [
+      "Hot dogs, Armour hot dogs",
+      "What kind of Armour hot dogs",
+      "Fat kids, skinny kids",
+      "kids who climb on rocks"
+    ],
+    "Why2": [
+      "What you are about to see is real",
+      "litigants on the screen are not",
+      "They are genuine citizens",
+      "I hanker for a hunk o'"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Perfectly amazing",
+      "text": "A darkside. The darkside is always there, waiting for us to enter, waiting to enter us. So until next time, try to enjoy the daylight.."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Great Folloup",
+      "text": "Once upon a time there were three little girls who went to the police academy. Two in Los Angeles. The other in San Francisco. And they were each assigned very hazardous duties."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "There once was a story",
+      "text": "There once was a story about a man who could turn invisible. I thought it was only a story... until it happened to me. Ok, so here's how it works: there's this stuff called Quicksilver that can bend light."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Some scientist",
+      "text": "Some scientist made it into a synthetic gland, and that's where I came in. See, I was facing life in prison and they were looking for a human experiment."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Man lives",
+      "text": "Man lives in the sunlit world of what he believes to be reality. But, there is, unseen by most, an underworld, a place that is just as real, but not as brightly lit."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "In time of ancient gods, warlords and kings, a land in turmoil cried out for a hero. She was Xena, a mighty princess forged in the heat of battle. The power. The passion."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"It's more than just tradition, it's the way it's done. To question the process publicly would brand you a renegade, a free thinker... a troublemaker.\"",
+      "name": "John Adam"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"In these presentations, you often require 'dummy text' to fill out the places where actual text will go once the money men buy it from some other overpriced consultant..\"",
+      "name": "Kamala Kamil"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Sure, you can use this space to tout the benefits to be had by smashing the state and/or killing everyone over the age of 30, but a far safer bet is to fill out that area with something unoffensive yet different.\"",
+      "name": "Doe Jane"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"It would be a heinous injustice to not give a tip of the hat to Malevole, whose random text generator opened up my eyes to the world of alternative dummy text..\"",
+      "name": "James Bond"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Since the dawn of time, there has been a process to developing web presentations - you start with a design, get it approved by whoever's sitting on the money, then you build from that.\"",
+      "name": "Jane russel"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"In these presentations, you often require 'dummy text' to fill out the places where actual text will go once the money men buy it from some other overpriced consultant..\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Brothers",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Angela smith",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "James Gallaher",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "9000 California St, San Francisco, CA 54321 ",
+    "phone": "+1 123 321 1234",
+    "email": "info@tikpub.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "No Lorem",
+      "text": "Historically, this dummy text is a block of fake latin boilerplate that begins with 'Lorem Ipsum'."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Gitz gut",
+      "text": "It fills up the space with sentences and paragraphs, but it's been used so long by so many that."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Good content",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Nice Services",
+      "text": "people just gloss over it without paying any attention to the contents. Herein lies your opportunity to subvert the timeless standard."
+    }
+  ]
+}
